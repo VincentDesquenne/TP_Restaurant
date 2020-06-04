@@ -1,0 +1,58 @@
+@font-face{
+    font-family: 'Police';
+    src: url('Allura-Regular.otf');
+}
+
+
+
+body{
+    font-family: 'Police', Arial, serif;
+    font-size: 150%;
+    background-image: url('fond2.jpg');
+    color: white;
+}
+.centreh{
+    text-align: center;
+   }
+.centre{
+    text-align:center;
+    font-size:32px;
+    
+   }
+.image1
+{
+    width:30%;
+}
+
+
+a
+{
+    text-decoration:none;
+    color:white;
+}
+
+
+.plat
+{
+    width:50%;
+    height: 50%;
+}
+table
+{
+    font-size:30px;
+    padding: 23px 10px 23px 10px;
+    border-collapse: collapse;
+    width: 100%;
+    margin:auto;
+}
+
+td,th
+{
+    width:10%;
+}
+
+.accueil
+{
+    text-align:center;
+    margin-top:22%;
+}
